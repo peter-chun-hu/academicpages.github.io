@@ -15,12 +15,10 @@ To do
 ---  
 
 ## Education
-====
 * M.S. in ECE, UCSD - Sep 2017 ∼ Dec 2018(expected)
 * B.S. in CS, National Taiwan University - Sep 2012 ∼ Jun 2016
 
 ## Experience
-======
 * Software Intern, TetraVue - Jul 2018 ∼ Sep 2018
   * Estimated translation and rotation between camera and IMU
   * Studied and developed visual inertial odometry using camera and IMU
@@ -30,7 +28,6 @@ To do
   * Determined  the  joint  angles  using  MATLAB  matrix  manipulation  functions  to  calculate  inverse kinematics from Kinect for Windows SDK 2.0 skeleton tracking data
 
 ## Projects
-======
 * Robotics operating system (ROS) - C++
   * Utilized ROS packages to detect markers’ pose and build a map with markers’ position and orientation
 * Reinforcement learning - Python
@@ -50,6 +47,5 @@ To do
   * Utilized Point Cloud Library (PCL) Iterative Closest Point (ICP) functions to merge 3D data into one 3D stuffed toy model
 
 ## Skills
-======
 * Programming Languages: C/C++, Python, MATLAB
 * Operating Systems: Linux (ubuntu), ROS, Windows

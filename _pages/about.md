@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About
+# About
 --- 
 To do
 
-CV
+# CV
 ---  
 
 Education

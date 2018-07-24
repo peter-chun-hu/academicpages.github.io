@@ -15,10 +15,12 @@ To do
 # CV
 ---
 **Education**
-* M.Sc., UCSD - Sep 2017 ∼ Dec 2018(expected)
+* M.Sc., UCSD - Sep 2017 ∼ Dec 2018 (expected)
   * Eletrical and Computer Egineering, GPA: 3.7/4.0
+  * Relevant Courses: Robot Reinforcement Learning, Machine Learning Image Processing
 * B.Sc., National Taiwan University - Sep 2012 ∼ Jun 2016
-  *  Computer Science and Information Engineering, major GPA: 4.03/4.3  
+  * Computer Science and Information Engineering, major GPA: 4.03/4.3  
+  * Relevant Courses: Robot Perception & Learning, Machine Learning  
 
 **Experience**
 * Software Intern, TetraVue - Jul 2018 ∼ Sep 2018

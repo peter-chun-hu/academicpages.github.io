@@ -8,12 +8,10 @@ redirect_from:
   - /about.html
 ---
 # About
---- 
-To do
+To do  
+  
 
 # CV
----  
-
 ## Education
 * M.S. in ECE, UCSD - Sep 2017 ∼ Dec 2018(expected)
 * B.S. in CS, National Taiwan University - Sep 2012 ∼ Jun 2016

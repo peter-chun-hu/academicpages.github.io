@@ -18,8 +18,8 @@ To do
 * M.Sc., UCSD - Sep 2017 ∼ Dec 2018(expected)
   * Eletrical and Computer Egineering, GPA: 3.7/4.0
 * B.Sc., National Taiwan University - Sep 2012 ∼ Jun 2016
-  *  Computer Science and Information Engineering, major GPA: 4.03/4.3
-  
+  *  Computer Science and Information Engineering, major GPA: 4.03/4.3  
+
 **Experience**
 * Software Intern, TetraVue - Jul 2018 ∼ Sep 2018
   * Estimated translation and rotation between camera and IMU

@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Chun Hu (Peter)"
   avatar           : "profile.png"
-  # bio              : "Your biography for the left-hand sidebar"
+  bio              : "MS student in (Intelligent Systems, Robotics, and Control track at University of California San Diego"
   location         : "La Jolla, CA"
   employer         :
   #googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "peter-chun-hu"
   orcid            :
   pinterest        :
   soundcloud       :

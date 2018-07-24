@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
----
+---  
+
 Education
 ======
 * M.S. in ECE, UCSD - Sep 2017 ∼ Dec 2018(expected)

@@ -14,12 +14,12 @@ To do
 # CV
 ---  
 
-Education
-======
+##Education
+====
 * M.S. in ECE, UCSD - Sep 2017 ∼ Dec 2018(expected)
 * B.S. in CS, National Taiwan University - Sep 2012 ∼ Jun 2016
 
-Experience
+##Experience
 ======
 * Software Intern, TetraVue - Jul 2018 ∼ Sep 2018
   * Estimated translation and rotation between camera and IMU
@@ -29,7 +29,7 @@ Experience
   * Developed C++ functions to keep biped robots’ centers of mass inside the supporting leg and to keep robots from falling while imitating humans doing Tai Chi
   * Determined  the  joint  angles  using  MATLAB  matrix  manipulation  functions  to  calculate  inverse kinematics from Kinect for Windows SDK 2.0 skeleton tracking data
 
-Projects
+##Projects
 ======
 * Robotics operating system (ROS) - C++
   * Utilized ROS packages to detect markers’ pose and build a map with markers’ position and orientation
@@ -49,7 +49,7 @@ Projects
 * 3D Point Cloud Object - C++
   * Utilized Point Cloud Library (PCL) Iterative Closest Point (ICP) functions to merge 3D data into one 3D stuffed toy model
 
-Skills
+##Skills
 ======
 * Programming Languages: C/C++, Python, MATLAB
 * Operating Systems: Linux (ubuntu), ROS, Windows

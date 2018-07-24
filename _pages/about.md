@@ -32,19 +32,19 @@ To do
   * Determined  the  joint  angles  using  MATLAB  matrix  manipulation  functions  to  calculate  inverse kinematics from Kinect for Windows SDK 2.0 skeleton tracking data
 
 **Projects**
-* Robotics operating system (ROS) - C++
+* [Robotics operating system (ROS)](https://github.com/peter-chun-hu/291d_hw3_ros_src) - C++
   * Utilized ROS packages to detect markers’ pose and build a map with markers’ position and orientation
-* Reinforcement learning - Python
+* [Reinforcement learning](https://github.com/peter-chun-hu/A2C_experience_repaly) - Python
   * Implemented advantage actor-critic (A2C) method in Pytorch and tested in OpenAI Gym Atari, Classic Control and Mujoco environments
   * Incorporated A2C with experience replay to increase the convergence speed
 * Kaggle Humpback Whale Identification Challenge - Python
   * 135th of 494 (beating the benchmark)
   * Handled imbalance data (52% class contained only one image) by using resampling techniques and modifying the loss function
   * Implemented Siamese network in Keras to calculate image similarity for classification
-* Simultaneous localization and mapping (SLAM) - Python
+* [Simultaneous localization and mapping (SLAM)](https://github.com/peter-chun-hu/SLAM) - Python
   * Implemented a particle ﬁlter to track a humanoid robot’s 2D position and orientation using inertial measurement unit (IMU), odometry and laser measurements
   * Built 2D occupancy grid maps of the environment using the results of the particle ﬁlter
-* Panorama - Python
+* [Panorama](https://github.com/peter-chun-hu/Panorama) - Python
   * Implemented an unscented Kalman ﬁlter (UKF) to estimate the 3D orientation of a rotating body using IMU reading
   * Generated panoramic images by stitching camera images based on the UKF estimation results
 * 3D Point Cloud Object - C++

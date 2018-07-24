@@ -9,10 +9,7 @@ redirect_from:
 ---
 # About
 To do  
-
-
-
-
+<br><br>
 
 # CV
 ## Education

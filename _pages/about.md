@@ -37,7 +37,7 @@ To do
 * [Reinforcement learning](https://github.com/peter-chun-hu/A2C_experience_repaly) - Python
   * Implemented advantage actor-critic (A2C) method in Pytorch and tested in OpenAI Gym Atari, Classic Control and Mujoco environments
   * Incorporated A2C with experience replay to increase the convergence speed
-* Kaggle Humpback Whale Identification Challenge - Python
+* [Kaggle Humpback Whale Identification Challenge](https://github.com/peter-chun-hu/ECE285_finalproject_TaiwanNo1) - Python
   * 135th of 494 (beating the benchmark)
   * Handled imbalance data (52% class contained only one image) by using resampling techniques and modifying the loss function
   * Implemented Siamese network in Keras to calculate image similarity for classification

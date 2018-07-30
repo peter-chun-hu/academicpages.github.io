@@ -22,16 +22,10 @@ To do
   * Computer Science and Information Engineering, major GPA: 4.03/4.3  
   * Relevant Courses: Robot Perception & Learning, Machine Learning  
 
-**Experience**
+**Related experience**
 * Software Intern, TetraVue - Jul 2018 ∼ Sep 2018
   * Estimated translation and rotation between camera and IMU
   * Studied and developed visual inertial odometry using camera and IMU
-* Research Assistant, National Taiwan University - Sep 2016 ∼ Aug 2017
-  * Built  physical  therapy  assisting  functions  on  Nao  humanoid  robots  with  human  motion  imitation systems and balancing algorithms which are continuously used in the Lab
-  * Developed C++ functions to keep biped robots’ centers of mass inside the supporting leg and to keep robots from falling while imitating humans doing Tai Chi
-  * Determined  the  joint  angles  using  MATLAB  matrix  manipulation  functions  to  calculate  inverse kinematics from Kinect for Windows SDK 2.0 skeleton tracking data
-
-**Projects**
 * [Robotics operating system (ROS)](https://github.com/peter-chun-hu/291d_hw3_ros_src) - C++
   * Utilized ROS packages to detect markers’ pose and build a map with markers’ position and orientation
 * [Reinforcement learning](https://github.com/peter-chun-hu/A2C_experience_repaly) - Python
@@ -49,6 +43,12 @@ To do
   * Generated panoramic images by stitching camera images based on the UKF estimation results
 * 3D Point Cloud Object - C++
   * Utilized Point Cloud Library (PCL) Iterative Closest Point (ICP) functions to merge 3D data into one 3D stuffed toy model
+  
+**Work experience**
+* Research Assistant, National Taiwan University - Sep 2016 ∼ Aug 2017
+  * Built  physical  therapy  assisting  functions  on  Nao  humanoid  robots  with  human  motion  imitation systems and balancing algorithms which are continuously used in the Lab
+  * Developed C++ functions to keep biped robots’ centers of mass inside the supporting leg and to keep robots from falling while imitating humans doing Tai Chi
+  * Determined  the  joint  angles  using  MATLAB  matrix  manipulation  functions  to  calculate  inverse kinematics from Kinect for Windows SDK 2.0 skeleton tracking data
 
 **Skills**
 * Programming Languages: C/C++, Python, MATLAB

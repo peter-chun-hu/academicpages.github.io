@@ -7,10 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# About
+<!-- # About
 ---
 To do  
-<br><br>
+<br><br> -->
 
 # CV
 ---

@@ -25,7 +25,7 @@ To do
 **Related experience**
 * Software Intern, TetraVue - Jul 2018 ∼ Sep 2018
   * Estimated translation and rotation between camera and IMU
-  * Studied and developed visual inertial odometry using camera and IMU
+  * Studied and developed visual inertial odometry using mono/stereo camera and IMU
 * [Robotics operating system (ROS)](https://github.com/peter-chun-hu/291d_hw3_ros_src) - C++
   * Utilized ROS packages to detect markers’ pose and build a map with markers’ position and orientation
 * [Reinforcement learning](https://github.com/peter-chun-hu/A2C_experience_repaly) - Python

@@ -7,10 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- # About
+# About
 ---
-To do  
-<br><br> -->
+I am a master student in ECE (electrical and computer engineering) department at University of California San Diego. I received my bachelar degree from National Taiwan University. I am interested in robotics and its application.
+<br><br>
 
 # CV
 ---

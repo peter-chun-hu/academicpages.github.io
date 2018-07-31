@@ -9,7 +9,7 @@ redirect_from:
 ---
 # About
 ---
-I am a master student in Electrical and Computer Engineering department at University of California San Diego. I received my bachelar degree from National Taiwan University. I am interested in robotics and the applications.
+I am a master student in Electrical and Computer Engineering department at University of California San Diego. I received my bachelar degree from National Taiwan University. I am interested in robotics and the application of robots.
 <br><br>
 
 # CV

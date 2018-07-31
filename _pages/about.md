@@ -27,7 +27,7 @@ I am a master student in Electrical and Computer Engineering department at Unive
   * Estimated translation and rotation between camera and IMU
   * Studied and developed visual inertial odometry (VIO) using mono/stereo camera and IMU
 * [Robotics operating system (ROS)](https://github.com/peter-chun-hu/291d_hw3_ros_src) - C++
-  * Utilized ROS packages to detect markers’ pose and build a map with markers’ position and orientation
+  * Utilized ROS packages to detect markers’ pose and built a map with markers’ position and orientation
 * [Reinforcement learning](https://github.com/peter-chun-hu/A2C_experience_repaly) - Python
   * Implemented advantage actor-critic (A2C) method in Pytorch and tested in OpenAI Gym Atari, Classic Control and Mujoco environments
   * Incorporated A2C with experience replay to increase the convergence speed
@@ -36,7 +36,7 @@ I am a master student in Electrical and Computer Engineering department at Unive
   * Handled imbalance data (52% class contained only one image) by using resampling techniques and modifying the loss function
   * Implemented Siamese network in Keras to calculate image similarity for classification
 * [Simultaneous localization and mapping (SLAM)](https://github.com/peter-chun-hu/SLAM) - Python
-  * Implemented a particle ﬁlter to track a humanoid robot’s 2D position and orientation using inertial measurement unit (IMU), odometry and laser measurements
+  * Implemented a particle ﬁlter to track a humanoid robot’s 2D position and orientation by using inertial measurement unit (IMU), odometry and laser measurements
   * Built 2D occupancy grid maps of the environment using the results of the particle ﬁlter
 * [Panorama](https://github.com/peter-chun-hu/Panorama) - Python
   * Implemented an unscented Kalman ﬁlter (UKF) to estimate the 3D orientation of a rotating body using IMU reading

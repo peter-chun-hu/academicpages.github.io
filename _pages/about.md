@@ -15,7 +15,7 @@ I am a master student in Electrical and Computer Engineering department at Unive
 # CV
 ---
 **Education**
-* M.Sc., University of California, San Diego - Sep 2017 ∼ Dec 2018 (expected)
+* M.Sc., University of California, San Diego - Sep 2017 ∼ May 2019 (expected)
   * Eletrical and Computer Egineering, GPA: 3.7/4.0
   * Relevant Courses: Sensing & Estimation in Robotics, Computer Vision
 * B.Sc., National Taiwan University - Sep 2012 ∼ Jun 2016
